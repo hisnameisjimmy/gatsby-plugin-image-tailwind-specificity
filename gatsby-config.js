@@ -4,6 +4,7 @@ module.exports = {
     title: "gatsby-plugin-image-tailwind-specificity",
   },
   plugins: [
+    "gatsby-plugin-postcss",
     "gatsby-plugin-image",
     "gatsby-plugin-mdx",
     "gatsby-plugin-sharp",
